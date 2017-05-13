@@ -1,1 +1,2 @@
-hello github
+hello branch.
+git is very useful.
