@@ -1,7 +1,2 @@
-<<<<<<< HEAD
 hello github
 edit hello.txt on Vi.
-=======
-hello branch.
-git is very useful.
->>>>>>> testing
