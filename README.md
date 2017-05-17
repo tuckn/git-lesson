@@ -1,2 +1,2 @@
 # git-lesson
-my Git lesson
+Hello, my Git lesson.
